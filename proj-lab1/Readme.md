@@ -62,7 +62,7 @@ Wczytywanie plików może być przydatne również na potrzeby UI. Do tej pory k
 7. Zamień reprezentację tekstową na graficzną w prezenterze widoku.
 8. Docelowy wygląd:
    
-    <img src="https://raw.githubusercontent.com/Soamid/obiektowe-lab/refs/heads/master/proj-lab1/img/preview.png" alt="preview" data-inline  align="center" />
+    <img src="https://raw.githubusercontent.com/Soamid/obiektowe-lab/refs/heads/master/proj-lab1/img/preview.png" width="267" alt="preview" align="center" />
 
 
 

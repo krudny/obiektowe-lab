@@ -172,7 +172,7 @@ Najważniejsze zadania:
 	```
 7. Aktualnie, twój program powinien wyglądać mniej więcej tak (użyto mapy `GrassField`, dodano 2 zwierzaki):
    
-   <img src="https://raw.githubusercontent.com/Soamid/obiektowe-lab/refs/heads/master/lab8/img/ui-grid.png" alt="ui grid" width="800" data-inline  align="center" />
+   <img src="https://raw.githubusercontent.com/Soamid/obiektowe-lab/refs/heads/master/lab8/img/ui-grid.png" alt="ui grid" width="700"  align="center" />
 
 	Oczywiście to tylko przykład wizualizacji. Możesz poprawić nieco doznania estetyczne dowolnie stylując kontrolki (przykłady stylowania z użyciem CSS znajdziesz m. in. na wykładzie).
 	
