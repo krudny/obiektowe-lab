@@ -7,7 +7,7 @@ Zrealizowanie zadań może być **bardzo pomocne przy realizacji projektu**.
 
 ## Zadania do wykonania
 
-### Część I: Elementy funkcyjne w Javie <img src="https://raw.githubusercontent.com/Soamid/obiektowe-lab/refs/heads/master/img/reward_silver.png" alt="srebrna skrzynka" width="50" align="center" />
+### Część I: Elementy funkcyjne w Javie <img src="https://raw.githubusercontent.com/Soamid/obiektowe-lab/refs/heads/master/img/reward_silver.png" alt="srebrna skrzynka" width="50" align="center" data-inline />
 
 ####  Wyrażenia lambda
 
@@ -34,7 +34,7 @@ Zrealizowanie zadań może być **bardzo pomocne przy realizacji projektu**.
 1. Metoda `WorldMap.objectAt()` może zwrócić `null` w momencie, gdy na danej pozycji nie będzie żadnego obiektu. Przerób interfejs w taki sposób by metoda zwracała `Optional<WorldElement>` i nigdy nie podawała `null`. 
 2. Obsłuż wszystkie miejsca, w których Twój program wywoływał `objectAt()`. Pamiętaj, że `Optional`, podobnie jak strumienie, posiada szereg operatorów przetwarzających jego zawartość bez "rozpakowywania" obiektu (np. operator `map()`, `filter()` czy `or()`). 
 
-### Część II : Zarządzanie zasobami <img src="https://raw.githubusercontent.com/Soamid/obiektowe-lab/refs/heads/master/img/reward_silver.png" alt="srebrna skrzynka" width="50" align="center" />
+### Część II : Zarządzanie zasobami <img src="https://raw.githubusercontent.com/Soamid/obiektowe-lab/refs/heads/master/img/reward_silver.png" alt="srebrna skrzynka" width="50" align="center" data-inline />
 
 #### Zapisywanie logów do pliku
 
