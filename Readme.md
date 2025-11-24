@@ -86,7 +86,7 @@ Będzie to wyglądało następująco:
 ### Roadmapa
 Wszystkie łupy  (poza tymi z quizów), jakie można zdobyć podczas kursu są zawsze oznaczone przy instrukcjach do lab, ale dla wygody można też zaplanować sobie łowy na podstawie roadmapy (kliknij żeby powiększyć):
 
-[![](img/roadmap_small.png)](img/roadmap.png)
+<img src="https://raw.githubusercontent.com/Soamid/obiektowe-lab/8ca479aa99689099ea1e37a81cc9040059bc6663/img/roadmap.png" alt="roadmapa" width="400" height="600" >
 
 ### FAQ
 
