@@ -72,7 +72,7 @@ Najważniejsze zadania:
 19. Zamknij IntelliJ.
 
 20. W pliku `build.gradle` w sekcji `plugins` dodaj linię `id 'application'`: 
-    ```
+    ```groovy
     plugins {
       id 'application'
       id 'java'
@@ -80,14 +80,14 @@ Najważniejsze zadania:
     ```
 
 21. W tym samym pliku dodaj sekcję:
-    ```
+    ```groovy
     application {
       getMainClass().set('agh.ics.oop.World')
     }
     ```
 
 22. W tym samym pliku dodaj sekcję:
-    ```
+    ```groovy
     java {
         toolchain {
             languageVersion.set(JavaLanguageVersion.of(21))
